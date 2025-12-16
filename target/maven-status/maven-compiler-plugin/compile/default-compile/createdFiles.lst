@@ -1,0 +1,8 @@
+com\weather\app\model\WeatherResponse.class
+com\weather\app\model\Weather.class
+com\weather\app\model\WeatherResponse$Location.class
+com\weather\app\service\WeatherService.class
+com\weather\app\model\WeatherResponse$Condition.class
+com\weather\app\model\WeatherResponse$Current.class
+com\weather\app\controller\WeatherController.class
+com\weather\app\WeatherApplication.class
